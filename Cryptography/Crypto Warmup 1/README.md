@@ -22,5 +22,3 @@ This uses a Vigenère Cipher. Online tool: https://planetcalc.com/2468/
 
 Transformed text is _secretmessage_
 
-### Flag
-`picoCTF{SECRETMESSAGE}`
