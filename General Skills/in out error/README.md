@@ -18,8 +18,7 @@ The flag is printed as _stderr_, while the lyrics are printed as _stdout_
 Redirect all _stdout_ into _/dev/null_ to only show the flag.
 
 ```
-$ ./in-out-error 1> /dev/null
-Please may I have the flag?
+
 
 ```
 
