@@ -25,11 +25,11 @@ The authenticity of host '2018shell1.picoctf.com (18.223.208.176)' can't be esta
 ECDSA key fingerprint is SHA256:zCX5ip3tx1RMbsJBc70jEazd+gAFzlbC1Q2iDI8LA/k.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added '2018shell1.picoctf.com,18.223.208.176' (ECDSA) to the list of known hosts.
-picoCTF{who_n33ds_p4ssw0rds_38dj21}
+
 ...
 ...
 ...
 ```
 
 ### Flag
-`picoCTF{who_n33ds_p4ssw0rds_38dj21}`
+
