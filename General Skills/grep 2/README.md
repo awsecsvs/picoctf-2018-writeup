@@ -18,4 +18,3 @@ We can _grep_ recursively by using `-r` to get the flag.
 Do `grep -r picoCTF` to filter out the flag.
 
 ### Flag
-`picoCTF{grep_r_and_you_will_find_556620f7}`
