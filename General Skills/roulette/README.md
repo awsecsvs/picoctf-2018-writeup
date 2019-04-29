@@ -14,4 +14,4 @@ General Skills
 Working solution [solve.py](solution/solve.py)
 
 ### Flag
-`picoCTF{1_h0p3_y0u_f0uNd_b0tH_bUg5_67c08f03}`
+
