@@ -15,10 +15,10 @@ Based off the hint, we can assume it's probably an integer overflow. HOWEVER, ju
 
 ```
 $ strings store | grep pico
-YOUR FLAG IS: picoCTF{numb3r3_4r3nt_s4f3_cbb7151f}
+YOUR FLAG IS: 
 ```
 
 Don't store the flag in the local binary next time.
 
 ### Flag
-`picoCTF{numb3r3_4r3nt_s4f3_cbb7151f}`
+
