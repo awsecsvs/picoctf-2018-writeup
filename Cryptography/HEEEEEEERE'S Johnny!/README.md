@@ -25,8 +25,3 @@ Connect to service and enter in credentials to get the flag.
 $ nc 2018shell1.picoctf.com 5221
 Username: root
 Password: thematrix
-picoCTF{J0hn_1$_R1pp3d_289677b5}
-```
-
-### Flag
-`picoCTF{J0hn_1$_R1pp3d_289677b5}`
