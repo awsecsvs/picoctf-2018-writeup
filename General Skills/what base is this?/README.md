@@ -21,5 +21,3 @@ Convert to ASCII for the respective bases. Python or online tools can be used to
 
 Working solution [solve.py](solution/solve.py).
 
-### Flag
-`picoCTF{delusions_about_finding_values_451a9a74}`
