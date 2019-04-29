@@ -17,7 +17,3 @@ The _pipe_ or the `|` passes standard output into standard input.
 
 Connect to the service and pipe output to _grep_
 
-Do `nc 2018shell1.picoctf.com 48696 | grep pico` to get flag.
-
-### Flag
-
