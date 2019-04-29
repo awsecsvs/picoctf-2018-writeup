@@ -14,4 +14,4 @@ No hints available
 Go to the link, scroll down and you can find the flag.
 
 ### Flag
-`picoCTF{xiexie_ni_lai_zheli}`
+
