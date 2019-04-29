@@ -17,7 +17,4 @@ The _strings_ command prints all human-readable characters.
 
 We can use the _strings_ command and _grep_ the flag.
 
-Do `strings strings | grep pico` to get flag.
 
-### Flag
-`picoCTF{sTrIngS_sAVeS_Time_3f712a28}`
