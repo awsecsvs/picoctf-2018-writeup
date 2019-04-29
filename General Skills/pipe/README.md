@@ -20,4 +20,4 @@ Connect to the service and pipe output to _grep_
 Do `nc 2018shell1.picoctf.com 48696 | grep pico` to get flag.
 
 ### Flag
-`picoCTF{almost_like_mario_f617d1d7}`
+
