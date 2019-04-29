@@ -17,7 +17,6 @@ Doing `ls -la`, you can see the file with the period character as its name. As t
 
 Therefore you, can try using the _cat_ command by listing all files using the _*_ special character.
 
-Do `cat .*` to get the flag.
 
 ### Flag
 `
