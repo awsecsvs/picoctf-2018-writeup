@@ -11,7 +11,7 @@ Cryptography
 >What killed SSL3?
 
 ## Solution
-Unsolved.
+.
 
 ### Flag
-`flag`
+
