@@ -40,8 +40,7 @@ Starting program: run
 Decrypting the Flag into global variable 'flag_buf'
 .....................................
 (gdb) printf "%s", (char*) flag_buf
-picoCTF{gDb_iS_sUp3r_u53fuL_a6c61d82}
+
 ```
 
-### Flag
-`picoCTF{gDb_iS_sUp3r_u53fuL_a6c61d82}`
+
