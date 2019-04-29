@@ -25,10 +25,10 @@ $ pwd
 $ echo -n "yes" > permissions.txt
 $ /problems/absolutely-relative_1_15eb86fcf5d05ec169cc417d24e02c87/absolutely-relative
 You have the write permissions.
-picoCTF{3v3r1ng_1$_r3l3t1v3_a97be50e}
+
 ```
 
 This works because the file _flag.txt_ is referenced using an absolute path while the _permission.txt_ is being referenced from your local directory.
 
 ### Flag
-`picoCTF{3v3r1ng_1$_r3l3t1v3_a97be50e}`
+
