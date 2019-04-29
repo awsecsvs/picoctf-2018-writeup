@@ -17,5 +17,3 @@ Set input to _cvpbPGS{guvf_vf_pelcgb!}_
 
 Output will be _picoCTF{this_is_crypto!}_ 
 
-### Flag
-`picoCTF{SECRETMESSAGE}`
