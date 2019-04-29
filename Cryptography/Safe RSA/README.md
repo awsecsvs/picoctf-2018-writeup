@@ -21,5 +21,4 @@ We can assume that `m ** e < n`. Therefore we do a cube root on _c_, and convert
 
 Working solution [solve.py](solution/solve.py)
 
-### Flag
-`picoCTF{e_w4y_t00_sm411_81b6559f}`
+
