@@ -20,4 +20,4 @@ Therefore you, can try using the _cat_ command by listing all files using the _*
 Do `cat .*` to get the flag.
 
 ### Flag
-`picoCTF{j0hn_c3na_paparapaaaaaaa_paparapaaaaaa_cf5156ef}`
+`
